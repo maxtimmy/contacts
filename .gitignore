@@ -1,0 +1,15 @@
+# Maven
+target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# H2 консольные файлы
+*.db
